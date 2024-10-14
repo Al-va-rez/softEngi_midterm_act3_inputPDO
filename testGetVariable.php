@@ -7,4 +7,5 @@
 	if (isset($_GET['prev_exp'])) {
 		echo "<h2>Previous work experience: " . $_GET['prev_exp'] . "</h2>";
 	}
+		
 ?>
